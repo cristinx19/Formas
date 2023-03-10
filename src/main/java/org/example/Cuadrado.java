@@ -3,7 +3,7 @@ package org.example;
 /**
  * Class cuadrado
  */
-public class cuadrado {
+public class Cuadrado {
 
   //
   // Fields
@@ -15,7 +15,7 @@ public class cuadrado {
   //
   // Constructors
   //
-  public cuadrado () { };
+  public Cuadrado() { };
   
   //
   // Methods

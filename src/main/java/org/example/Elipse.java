@@ -3,7 +3,7 @@ package org.example;
 /**
  * Class elipse
  */
-public class elipse {
+public class Elipse {
 
   //
   // Fields
@@ -16,7 +16,7 @@ public class elipse {
   //
   // Constructors
   //
-  public elipse () { };
+  public Elipse() { };
   
   //
   // Methods

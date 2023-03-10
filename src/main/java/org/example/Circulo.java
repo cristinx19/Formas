@@ -3,7 +3,7 @@ package org.example;
 /**
  * Class circulo
  */
-public class circulo {
+public class Circulo {
 
   //
   // Fields
@@ -15,7 +15,7 @@ public class circulo {
   //
   // Constructors
   //
-  public circulo () { };
+  public Circulo() { };
   
   //
   // Methods

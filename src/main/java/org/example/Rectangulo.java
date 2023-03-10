@@ -3,7 +3,7 @@ package org.example;
 /**
  * Class rectangulo
  */
-public class rectangulo {
+public class Rectangulo {
 
   //
   // Fields
@@ -16,7 +16,7 @@ public class rectangulo {
   //
   // Constructors
   //
-  public rectangulo () { };
+  public Rectangulo() { };
   
   //
   // Methods
