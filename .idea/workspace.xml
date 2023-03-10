@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="383e6ae9-4e69-449d-9750-2e5238c648c2" name="Changes" comment="Son los ejercicios 1,2,3 y 4." />
+    <list default="true" id="383e6ae9-4e69-449d-9750-2e5238c648c2" name="Changes" comment="Añadido el diagrama UML creado con Umbrello">
+      <change afterPath="$PROJECT_DIR$/src/main/java/parte2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parte2/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parte2/PuestoTrabajo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,11 +45,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/usuario/Escritorio/Entornos de Desarrollo"
+    "last_opened_file_path": "/home/usuario/Escritorio/Entornos de Desarrollo/Formas/src/main/java/parte2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/parte2" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
   </component>
@@ -57,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678447404816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Añadido el diagrama UML creado con Umbrello">
+      <created>1678447733085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678447733085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Son los ejercicios 1,2,3 y 4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Son los ejercicios 1,2,3 y 4." />
+    <MESSAGE value="Añadido el diagrama UML creado con Umbrello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadido el diagrama UML creado con Umbrello" />
   </component>
 </project>
