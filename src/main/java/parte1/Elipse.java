@@ -1,22 +1,21 @@
-package org.example;
+package parte1;
 
 /**
- * Class elipse
+ * Class Elipse
  */
-public class Elipse {
+public class Elipse extends Conica {
 
   //
   // Fields
   //
 
-  private String color;
   private float ejeMayor;
   private float ejeMenor;
   
   //
   // Constructors
   //
-  public Elipse() { };
+  public Elipse () { };
   
   //
   // Methods
@@ -26,22 +25,6 @@ public class Elipse {
   //
   // Accessor methods
   //
-
-  /**
-   * Set the value of color
-   * @param newVar the new value of color
-   */
-  public void setColor (String newVar) {
-    color = newVar;
-  }
-
-  /**
-   * Get the value of color
-   * @return the value of color
-   */
-  public String getColor () {
-    return color;
-  }
 
   /**
    * Set the value of ejeMayor

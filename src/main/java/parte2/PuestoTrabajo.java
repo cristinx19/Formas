@@ -23,7 +23,15 @@ public class PuestoTrabajo {
   // Constructors
   //
   public PuestoTrabajo () { };
-  
+
+  public PuestoTrabajo(String nombre, LocalDate fechaInicio, LocalDate fechaFin, float salario, String lugar) {
+    this.nombre = nombre;
+    this.fechaInicio = fechaInicio;
+    this.fechaFin = fechaFin;
+    this.salario = salario;
+    this.lugar = lugar;
+  }
+
   //
   // Methods
   //

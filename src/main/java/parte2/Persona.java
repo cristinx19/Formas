@@ -21,9 +21,9 @@ public class Persona {
   private int numeroID;
   private int telefono;
 
-  private PuestoTrabajo puesto;
+  private ArrayList <PuestoTrabajo> trabajos;
 
-  public Persona(String nombre, String apellido1, String apellido2, LocalDate fechaNacimiento, String sexo, int numeroID, int telefono, PuestoTrabajo puesto) {
+  public Persona(String nombre, String apellido1, String apellido2, LocalDate fechaNacimiento, String sexo, int numeroID, int telefono) {
     this.nombre = nombre;
     this.apellido1 = apellido1;
     this.apellido2 = apellido2;
@@ -31,9 +31,16 @@ public class Persona {
     this.sexo = sexo;
     this.numeroID = numeroID;
     this.telefono = telefono;
-    this.puesto = puesto;
+    this.trabajos = new ArrayList<>();
   }
 
+  public ArrayList<PuestoTrabajo> getTrabajos() {
+    return trabajos;
+  }
+
+  public void setTrabajos(ArrayList<PuestoTrabajo> trabajos) {
+    this.trabajos = trabajos;
+  }
   //
   // Constructors
   //

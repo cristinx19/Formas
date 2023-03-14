@@ -1,22 +1,21 @@
-package org.example;
+package parte1;
 
 /**
- * Class rectangulo
+ * Class Rectangulo
  */
-public class Rectangulo {
+public class Rectangulo extends Cuadrilatero {
 
   //
   // Fields
   //
 
-  private String color;
   private int base;
   private int altura;
   
   //
   // Constructors
   //
-  public Rectangulo() { };
+  public Rectangulo () { };
   
   //
   // Methods
@@ -26,22 +25,6 @@ public class Rectangulo {
   //
   // Accessor methods
   //
-
-  /**
-   * Set the value of color
-   * @param newVar the new value of color
-   */
-  public void setColor (String newVar) {
-    color = newVar;
-  }
-
-  /**
-   * Get the value of color
-   * @return the value of color
-   */
-  public String getColor () {
-    return color;
-  }
 
   /**
    * Set the value of base

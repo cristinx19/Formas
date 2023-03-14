@@ -1,7 +1,7 @@
-package org.example;
+package parte1;
 
 /**
- * Class cuadrilatero
+ * Class Cuadrilatero
  */
 public class Cuadrilatero extends Forma {
 
@@ -14,7 +14,7 @@ public class Cuadrilatero extends Forma {
   //
   // Constructors
   //
-  public Cuadrilatero() { };
+  public Cuadrilatero () { };
   
   //
   // Methods

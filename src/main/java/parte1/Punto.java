@@ -1,4 +1,4 @@
-package org.example;
+package parte1;
 
 /**
  * Class Punto

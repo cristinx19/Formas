@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="383e6ae9-4e69-449d-9750-2e5238c648c2" name="Changes" comment="Añadido el diagrama UML creado con Umbrello">
-      <change afterPath="$PROJECT_DIR$/src/main/java/parte2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parte2/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parte2/PuestoTrabajo.java" afterDir="false" />
+    <list default="true" id="383e6ae9-4e69-449d-9750-2e5238c648c2" name="Changes" comment="Es la parte dos en donde se crea Persona y Puesto de Trabajo.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/parte1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Conica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Conica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cuadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Cuadrilatero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Elipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Elipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Punto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Punto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte1/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parte2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parte2/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte2/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parte2/PuestoTrabajo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parte2/PuestoTrabajo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +55,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/usuario/Escritorio/Entornos de Desarrollo/Formas/src/main/java/parte2"
+    "last_opened_file_path": "/home/usuario/Escritorio/Entornos de Desarrollo/Formas/src/main/java/parte1"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/parte1" />
       <recent name="$PROJECT_DIR$/src/main/java/parte2" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
@@ -77,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678447733085</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Es la parte dos en donde se crea Persona y Puesto de Trabajo.">
+      <created>1678454814131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678454814132</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Son los ejercicios 1,2,3 y 4." />
     <MESSAGE value="Añadido el diagrama UML creado con Umbrello" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadido el diagrama UML creado con Umbrello" />
+    <MESSAGE value="Es la parte dos en donde se crea Persona y Puesto de Trabajo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Es la parte dos en donde se crea Persona y Puesto de Trabajo." />
   </component>
 </project>

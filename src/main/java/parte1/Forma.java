@@ -1,21 +1,20 @@
-package org.example;
+package parte1;
 
 /**
- * Class circulo
+ * Class Forma
  */
-public class Circulo {
+public class Forma extends Punto {
 
   //
   // Fields
   //
 
   private String color;
-  private int diametro;
   
   //
   // Constructors
   //
-  public Circulo() { };
+  public Forma () { };
   
   //
   // Methods
@@ -40,22 +39,6 @@ public class Circulo {
    */
   public String getColor () {
     return color;
-  }
-
-  /**
-   * Set the value of diametro
-   * @param newVar the new value of diametro
-   */
-  public void setDiametro (int newVar) {
-    diametro = newVar;
-  }
-
-  /**
-   * Get the value of diametro
-   * @return the value of diametro
-   */
-  public int getDiametro () {
-    return diametro;
   }
 
   //
